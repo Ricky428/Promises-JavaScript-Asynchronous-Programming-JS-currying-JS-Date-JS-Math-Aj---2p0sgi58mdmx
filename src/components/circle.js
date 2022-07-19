@@ -2,11 +2,8 @@
 const Shape = require('./shape.js')
 // declare class
 class Circle extends Shape {
-    constructor() {
-        this.r = 5;
-    };
-    calculateArea() {
-     return  Math.PI*(r*r);
+    calculateArea(r) {
+     return  Math.PI*(5*5);
     }
 }
 
