@@ -3,7 +3,7 @@ class Shape {
     constructor(shape) {
         this.length=length;
         this.breadth=breadth;
-        this.style.color='red';
+        this.color='red';
     }
 
     drawShape(shape) {
