@@ -5,7 +5,7 @@ class Circle extends Shape {
     constructor() {
         this.r = r;
     };
-    calculateArea(r) {
+    calculateArea() {
      return  Math.PI*(r*r);
     }
 }
