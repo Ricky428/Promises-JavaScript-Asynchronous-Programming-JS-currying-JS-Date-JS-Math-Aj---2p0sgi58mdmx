@@ -3,11 +3,11 @@ class Shape {
     constructor(shape) {
         this.length=length;
         this.breadth=breadth;
-        this.style.color='red';
+        this.style.color='color';
     }
 
     drawShape(shape) {
-        this.style.color
+        this.style.color='red';
     }
 
     calculateArea(length,breadth) {
