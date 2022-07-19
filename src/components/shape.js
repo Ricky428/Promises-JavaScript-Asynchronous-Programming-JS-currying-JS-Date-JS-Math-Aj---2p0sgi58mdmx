@@ -10,7 +10,7 @@ class Shape {
        
     }
 
-    calculateArea(length,breadth) {
+    calculateArea() {
         return this.length * this.breadth;
     }
 }
