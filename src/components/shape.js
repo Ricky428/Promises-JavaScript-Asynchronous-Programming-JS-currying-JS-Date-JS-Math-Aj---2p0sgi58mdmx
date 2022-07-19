@@ -7,7 +7,7 @@ class Shape {
     }
 
     drawShape(shape) {
-        this.style;
+       
     }
 
     calculateArea(length,breadth) {
