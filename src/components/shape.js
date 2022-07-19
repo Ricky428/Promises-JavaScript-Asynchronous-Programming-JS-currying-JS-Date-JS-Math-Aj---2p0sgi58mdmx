@@ -2,7 +2,7 @@
 class Shape {
     constructor(shape) {
         this.length=length;
-        this.breadth=breadth;
+        this.breadth=5;
         this.color='red';
     }
 
