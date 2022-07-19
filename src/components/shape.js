@@ -1,7 +1,7 @@
 // declare class
 class Shape {
     constructor(shape) {
-        this.length=length;
+        this.length=5;
         this.breadth=5;
         this.color='red';
     }
